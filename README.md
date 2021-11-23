@@ -1,4 +1,4 @@
-<p align="center"><a href="http://rw-academica-21.herokuapp.com/" target="_blank"><img src="public/img/Screenshot%202021-11-24%20at%2004-39-35%20Academica.png" width="400"></a></p>
+<p align="center"><a href="http://rw-academica-21.herokuapp.com/" target="_blank"><img src="public/img/Screenshot%202021-11-24%20at%2004-39-35%20Academica.png"></a></p>
 
 ## About Academica
 
