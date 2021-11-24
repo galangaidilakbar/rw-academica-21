@@ -1,8 +1,10 @@
-<p align="center"><a href="http://rw-academica-21.herokuapp.com/" target="_blank"><img src="public/img/Screenshot%202021-11-24%20at%2004-39-35%20Academica.png"></a></p>
+<p align="center"><a href="https://rw-academica-21.herokuapp.com/" target="_blank"><img src="public/img/Screenshot%202021-11-24%20at%2004-39-35%20Academica.png"></a></p>
 
 ## About Academica
 
-Academica adalah website bertema edukasi yang mengimplementasikan autensikasi user menggunakan `session dan cookie`. Halaman `dashboard` hanya dapat di akses oleh pengguna yang telah mendaftar. Website ini dibuat untuk menyelesaikan Ujian Tengah Semester mata kuliah Rekayasa Web.
+Academica adalah website dengan tema edukasi yang mengimplementasikan user autensikasi menggunakan `session` dan `cookie`. Halaman `dashboard` dilindungi sehingga hanya pengguna yang telah mendaftarlah yang bisa mengakses halaman tersebut. Website ini dibuat untuk menyelesaikan Ujian Tengah Semester mata kuliah Rekayasa Web semester 5 (lima) tahun 2021.
+
+klik [link ini](https://rw-academica-21.herokuapp.com/) untuk melihat Academica secara online dibrowser anda masing-masing. Academica telah dihosting ke Heroku untuk memudahkan Ibu Ledy Elsera Astrianty, S.Kom., M.Kom beserta pengunjung sekalian dalam melihat, dan berinteraksi dengan sistem tanpa perlu menginstallnya kedalam komputer masing-masing. Anda bebas untuk berinteraksi dengan sistem, cobalah mengakses halaman [dashboard](https://rw-academica-21.herokuapp.com/dashboard), jika session dan kredensials anda tidak sesuai, maka sistem akan meminta anda untuk log in.
 
 ## Build With
 
@@ -18,7 +20,7 @@ Dibawah ini merupakan panduan untuk menginstall Academica pada komputer lokal an
 
 ### Prerequisites
 
-Aplikasi yang dibutuhkan untuk menjalankan Academica di komputer anda:
+Aplikasi berikut **dibutuhkan** untuk menjalankan Academica di komputer anda:
 1. Git
    ```bash
     git --version
@@ -95,7 +97,6 @@ Aplikasi yang dibutuhkan untuk menjalankan Academica di komputer anda:
 Follow sosial media saya di:
 - Instagram [@galangaidilakbar](https://www.instagram.com/galangaidilakbar/)
 - Twitter [@galangaidilakbr](https://twitter.com/galangaidilakbr)
-
 
 ## License
 
